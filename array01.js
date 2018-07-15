@@ -9,7 +9,6 @@ console.log("-----------------");
 console.log(flavors[3]);
 flavors[3] = "vanilla chocolate chip";
 console.log(flavors[3]);
-
 console.log(flavors[10]);       // undefined
 
 console.log("-----------------");
